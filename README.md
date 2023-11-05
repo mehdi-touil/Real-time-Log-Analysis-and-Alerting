@@ -1,4 +1,4 @@
-# Real-time-Log-Analysis-and-Alerting
+# Real  time Log Analysis and Alerting : 
 # Apache NiFi with FastAPI Project
 
 ## Overview
@@ -32,7 +32,7 @@ This project demonstrates the integration of Apache NiFi, a robust data processi
 
 ## Directory Structure
 
-- `NiFi_Flow_Template.xml`: Apache NiFi flow template file.
+- `logs_fastapiAlert_MehdiTouil.xml`: Apache NiFi flow template file.
 - `FastAPI/`: FastAPI application code and configurations.
 
 ## Resources
