@@ -39,7 +39,10 @@ This project demonstrates the integration of Apache NiFi, a robust data processi
 
 - [Apache NiFi Documentation](https://nifi.apache.org/docs.html)
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
-  
+## screenshots
+![Apache Nifi Template 1](https://raw.githubusercontent.com/mehdi-touil/Real-time-Log-Analysis-and-Alerting/487dea73ca41ee59c302a5212cdb60ba7b8aaead/Screenchots/Apache%20Nifi%20Template%201.png)
+![Apache Nifi Template 2](https://raw.githubusercontent.com/mehdi-touil/Real-time-Log-Analysis-and-Alerting/487dea73ca41ee59c302a5212cdb60ba7b8aaead/Screenchots/Apache%20nifi%20Template%202.png)
+![FastAPI Received Alert From Apache NiFi](https://raw.githubusercontent.com/mehdi-touil/Real-time-Log-Analysis-and-Alerting/487dea73ca41ee59c302a5212cdb60ba7b8aaead/Screenchots/FastApi%20Received%20Alert%20From%20Apache%20Nifi.png)
 ## Contributors
 
 - [Mehdi Touil](https://github.com/mehdi-touil)
